@@ -1,5 +1,0 @@
-c:\users\usuário\documents\visual studio 2017\Projects\ConsultaProtheus\ConsultaProtheus\bin\Debug\ConsultaProtheus.exe.config
-c:\users\usuário\documents\visual studio 2017\Projects\ConsultaProtheus\ConsultaProtheus\bin\Debug\ConsultaProtheus.exe
-c:\users\usuário\documents\visual studio 2017\Projects\ConsultaProtheus\ConsultaProtheus\bin\Debug\ConsultaProtheus.pdb
-c:\users\usuário\documents\visual studio 2017\Projects\ConsultaProtheus\ConsultaProtheus\obj\Debug\ConsultaProtheus.exe
-c:\users\usuário\documents\visual studio 2017\Projects\ConsultaProtheus\ConsultaProtheus\obj\Debug\ConsultaProtheus.pdb
